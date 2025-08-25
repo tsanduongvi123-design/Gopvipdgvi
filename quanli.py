@@ -1,4 +1,4 @@
 {
-  "quanli": on,
+  "quanli": "on",
   "message": "0"
 }
